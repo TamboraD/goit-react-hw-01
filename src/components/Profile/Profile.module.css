@@ -26,20 +26,18 @@ justify-items: center;
 .list {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     border-top: 2px solid gray;
 }
 .item {
-    padding-top: 15px;
-    justify-content: center;
-    text-align: center;
+        flex-direction: column;
+        text-align: center;
 }
 .item:not(:last-child){
     border-right: 2px solid gray;
 }
 .title {
     font-size: 25px;
-padding-bottom: 15px;
 }
 .num {
     font-size: 25px;
