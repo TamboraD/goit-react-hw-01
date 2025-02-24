@@ -1,0 +1,18 @@
+.table, td, tr, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 400px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.rowBlack {
+    background-color: #1B1212;
+    color: white;
+}
+.text {
+padding-bottom: 5px;
+padding-top: 5px;
+font-weight: 500;
+}
+

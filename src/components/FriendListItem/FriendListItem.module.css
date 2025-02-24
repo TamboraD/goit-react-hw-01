@@ -9,3 +9,9 @@
 .isOffline {
     color: red;
 }
+.container {
+    text-align: center;
+}
+.text {
+    padding-top: 5px;
+}

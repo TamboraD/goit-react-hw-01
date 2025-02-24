@@ -28,11 +28,9 @@ justify-items: center;
     flex-direction: row;
     justify-content: space-between;
     border-top: 2px solid gray;
-    /* padding-top: 15px; */
 }
 .item {
     padding-top: 15px;
-    /* display: flex; */
     justify-content: center;
     text-align: center;
 }
